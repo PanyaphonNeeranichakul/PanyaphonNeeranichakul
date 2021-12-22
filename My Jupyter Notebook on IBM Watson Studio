@@ -1,0 +1,9 @@
+#My Jupyter Notebook on IBM Watson Studio
+#Panyaphon Neeranichakul
+#Student
+
+#I am interested in data science because I want to use data science in medicine.
+
+#The follwing code prints my name.
+A = "Panyaphon Neeranichakul"
+print(A)
